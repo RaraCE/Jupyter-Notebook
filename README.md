@@ -4,12 +4,11 @@ Welcome to my personal collection of data science and machine learning projects!
 
 Each project applies key concepts like:
 - 📊 Exploratory data analysis (EDA)
-- 🤖 Machine learning algorithms
+- 🤖 Machine learning algorithms (Regression, Pipeline)
 - 🔁 Monte Carlo simulations
-- 📈 Predictive modeling
+- 📈 Predictive modeling; Model Development, Evaluation, and Refinement
 - 🧬 Scientific computing
 - 🧠 Neural networks and PyTorch
-- And more to come!
 
 ---
 
